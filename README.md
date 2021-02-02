@@ -7,9 +7,6 @@
 충북대학교 산업인공지능학과 석사 과정에 재학 중인 장민우 입니다
 
 <p align="center">
-  
-<img src="./images/choiwonhee.jpg"  width="350" height="400">
-<img src="./images/spring.png"  width="300" height="250">
 </p>
 </br>
 
